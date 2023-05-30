@@ -1,3 +1,3 @@
-# `template`
+# Prisma official tutorial
 
-Template for generic repositories
+https://www.prisma.io/docs/getting-started
